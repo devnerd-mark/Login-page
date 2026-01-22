@@ -1,10 +1,8 @@
 import React from 'react'
-import Home from './Component/Home'
+
 const App = () => {
   return (
-    <div>
-      <Home/>
-    </div>
+    <div className='bg-indigo-400 text-center'>App</div>
   )
 }
 
