@@ -1,8 +1,10 @@
 import React from 'react'
-
+import Form from './Component/Form'
 const App = () => {
   return (
-    <div className='bg-indigo-400 text-center'>App</div>
+    <div >
+      <Form />
+    </div>
   )
 }
 
